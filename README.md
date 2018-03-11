@@ -3,14 +3,14 @@
 ## Programme
 1. Discussions / Questionnaire / Remarques + Présentation de la formation
 2. Explications Installation + visualisation parties du ChatBot
-	a. Variables
-    b. Actions
-    c. La logique
-    d. Le Webhook
+- Variables
+- Actions
+- La logique
+- Le Webhook
 3. Wit.ai
-	a. Installation
-    b. Créations entités / intentions
-    c. Entrainement de l'Intelligence Artificielle
+- Installation
+- Créations entités / intentions
+- Entrainement de l'Intelligence Artificielle
 4. Connexion au ChatBot
 5. Déclenchement d'actions
 6. Connexion à une API
