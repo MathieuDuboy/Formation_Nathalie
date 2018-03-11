@@ -19,8 +19,8 @@
 - Stockage Firebase
 - Modification/Création Menu persistant + liens réduits vers partie du ChatBot.
 
-# Discussions / Questionnaire / Remarques + Présentation de la formation
+## Discussions / Questionnaire / Remarques + Présentation de la formation
 A l'oral, 10 minutes Maximum
 
-# Explications Installation + visualisation parties du ChatBot
+## Explications Installation + visualisation parties du ChatBot
 
